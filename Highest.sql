@@ -1,0 +1,1 @@
+SELECT * FROM highestgross.highest1_csv;
